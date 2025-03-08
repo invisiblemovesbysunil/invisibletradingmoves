@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Invisible Moves by Sunil</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1 { color: #333; }
+        .button { display: inline-block; margin: 10px; padding: 10px 20px; background: #007BFF; color: white; text-decoration: none; border-radius: 5px; }
+        .button:hover { background: #0056b3; }
+        iframe { width: 100%; height: 315px; border: none; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Next Invisible Moves by Sunil</h1>
+        <p>Explore the best stock market trading strategies and insights.</p>
+        
+        <a href="https://www.youtube.com/@NextInvisibleMoves" target="_blank" class="button">📺 Watch on YouTube</a>
+        <a href="https://nextinvisibletradingmoves.blogspot.com/" target="_blank" class="button">📝 Read the Blog</a>
+        <a href="https://www.instagram.com/next_invisible_moves_by_sunil/" target="_blank" class="button">📷 Follow on Instagram</a>
+        <a href="https://rumble.com/c/NextInvisibleMovesBySunil" target="_blank" class="button">🎥 Watch on Rumble</a>
+        
+        <h2>Latest YouTube Video</h2>
+        <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=NextInvisibleMoves" allowfullscreen></iframe>
+    </div>
+</body>
+</html>
